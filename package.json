@@ -1,0 +1,10 @@
+{
+  "name": "clarion",
+  "version": "0.1.0",
+  "description": "Modern React Native Template",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Nico Hämäläinen <nico@sizeof.io>",
+  "repository": "clooth/clarion",
+  "license": "MIT"
+}
